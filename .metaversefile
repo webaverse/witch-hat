@@ -1,0 +1,13 @@
+{
+  "name": "Witch hat",
+  "description": "A real witch hat, made from a real witch.",
+  "start_url": "witchHat2.glb",
+  "components": [
+    {
+      "type": "wear",
+      "bone": "Head",
+      "position": [0, 0, 0],
+      "scale": [0.1, 0.1, 0.1]
+    }
+  ]
+}
