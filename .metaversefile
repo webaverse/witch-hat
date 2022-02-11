@@ -1,7 +1,7 @@
 {
   "name": "Witch hat",
   "description": "A real witch hat, made from a real witch.",
-  "start_url": "witchHat2.glb",
+  "start_url": "witch-hat.glb",
   "components": [
     {
       "type": "wear",
