@@ -4,10 +4,12 @@
   "start_url": "witch-hat.glb",
   "components": [
     {
-      "type": "wear",
-      "bone": "Head",
-      "position": [0, 0, 0],
-      "scale": [0.1, 0.1, 0.1]
+      "key": "wear",
+      "value": {
+        "boneAttachment": "head",
+        "position": [0, 0.1, 0],
+        "quaternion": [0, 0, 0, 1]
+      }
     }
   ]
 }
